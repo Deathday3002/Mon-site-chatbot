@@ -1,0 +1,6 @@
+cd /chemin/vers/ton/projet
+git init
+git remote add origin https://github.com/Deathday-3002/mon-site-chatbot.git
+git add .
+git commit -m "Premier commit"
+git push -u origin main
